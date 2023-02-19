@@ -1,0 +1,76 @@
+{
+    "id": "com.admadic.ueben.MusicNotes",
+    "title": "Root",
+    "title-de": "Root",
+    "title-en": "Root",
+    "type": "metagroup",
+    "summary": "Practice Music Notes, Rests and Scales",
+    "summary-en": "Practice Music Notes, Rests and Scales",
+    "summary-de": "Noten, Pausen und Tonleitern üben",
+    "children": [
+        {
+            "id": "rests",
+            "title": "Rests",
+            "title-de": "Pausen",
+            "title-en": "Rests",
+            "type": "group",
+            "summary": "Group of tasks to practice rests",
+            "summary-de": "Gruppen von Aufgaben zum Üben von Pausen",
+            "summary-en": "Group of tasks to practice rests",
+            "children": [
+                {
+                    "id": "rests-easy",
+                    "title": "Rests - Easy",
+                    "title-de": "Pausen - Einfach",
+                    "title-en": "Rests - Easy",
+                    "type": "task",
+                    "summary": "Practice Rests in Easy Mode",
+                    "summary-de": "Einfache Pausen üben",
+                    "summary-en": "Practice Rests in Easy Mode",
+                },
+                {
+                    "id": "rests-diff",
+                    "title": "Rests - Difficult",
+                    "title-de": "Pausen - Schwer",
+                    "title-en": "Rests - Difficult",
+                    "type": "task",
+                    "summary": "Practice Rests in Difficult Mode",
+                    "summary-de": "Practice Rests in Difficult Mode",
+                    "summary-en": "Schwere Pausen üben",
+                }
+            ]
+        },
+        {
+            "id": "notes",
+            "title": "Notes",
+            "title-de": "Noten",
+            "title-en": "Notes",
+            "type": "group",
+            "summary": "Group of tasks to practice notes",
+            "summary-de": "Gruppen von Aufgaben zum Üben von Noten",
+            "summary-en": "Group of tasks to practice notes",
+            "children": [
+                {
+                    "id": "notes-gclef-easy",
+                    "title": "Notes - G-Clef - Easy",
+                    "title-de": "Noten - Sopranschlüssel - Einfach",
+                    "title-en": "Notes - G-Clef - Easy",
+                    "type": "task",
+                    "summary": "Practice Notes with Treble Clef in Easy Mode",
+                    "summary-de": "Noten üben mit Sopranschlüssel - Einfach",
+                    "summary-en": "Practice Notes with Treble Clef in Easy Mode",
+                },
+                {
+                    "id": "notes-fclef-easy",
+                    "title": "Notes - F-Clef - Easy",
+                    "title-de": "Noten - Bassschlüssel - Einfach",
+                    "title-en": "Notes - F-Clef - Easy",
+                    "type": "task",
+                    "summary": "Practice Notes with Bass Clef in Easy Mode",
+                    "summary-de": "Noten üben mit Bassschlüssel - Einfach",
+                    "summary-en": "Practice Notes with Bass Clef in Easy Mode",
+                }
+            ]
+        }
+    ]
+}

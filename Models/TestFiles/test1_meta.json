@@ -1,0 +1,7 @@
+{
+    "id": "com.admadic.adedukit.Test1",
+    "keywords": ["kw1", "kw2"],
+    "thumbnail_spec": {
+        "thumbnail_id_1": "thumbnail_file_id_1.png"
+    }
+}

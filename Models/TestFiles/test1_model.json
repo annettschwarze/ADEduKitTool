@@ -1,0 +1,22 @@
+{
+    "id": "com.admadic.adedukit.Test1",
+    "title": "Root",
+    "title-de": "Root",
+    "title-en": "Root",
+    "type": "metagroup",
+    "summary": "Summary",
+    "summary-en": "Summary-en",
+    "summary-de": "Summary-de",
+    "children": [
+        {
+            "id": "ch1",
+            "title": "Ch1",
+            "title-de": "Ch1-de",
+            "title-en": "Ch1-en",
+            "type": "group",
+            "summary": "Summary_Ch1",
+            "summary-de": "Summary_Ch1-de",
+            "summary-en": "Summary_Ch1-en",
+        },
+    ]
+}
